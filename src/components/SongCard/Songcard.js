@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     innercontainer: {
         flex: 1,
         padding: 10,
-        backgroundColor: '#ffc86d',
+        // backgroundColor: '#ffc86d',
         justifyContent: 'center'
 
     },
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     },
     info_container: {
         flex: 1,
-        backgroundColor: 'red',
+        // backgroundColor: 'red',
         flexDirection: 'row',
         alignContent:'center',
 
