@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import music_data from './src/music-data.json';
 
 export default function App() {
   return (
